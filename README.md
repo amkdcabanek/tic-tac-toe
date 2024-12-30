@@ -1,5 +1,5 @@
 # tic-tac-toe
-https://amkdcabanek.github.io/
+[https://amkdcabanek.github.io/](https://amkdcabanek.github.io/tic-tac-toe/)
 
 <b>HTML Structure:</b>
 
